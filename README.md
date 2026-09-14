@@ -147,5 +147,3 @@ Some features I would like to add in the future:
 **Jack Golden**
 
 This project was built as a hands-on exploration of **React, AWS, serverless architecture, and generative AI**.
-
-[View the project on GitHub](https://github.com/jackcgolden1/ai-recipe-generator)
